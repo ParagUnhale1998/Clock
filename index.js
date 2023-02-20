@@ -10,7 +10,7 @@
 
 // first get the values of real time
 
-    const Time = new Date();
+   /* const Time = new Date();
     const hours = Time.getHours();
     const minutes = Time.getMinutes();
     const seconds = Time.getSeconds();
@@ -29,7 +29,7 @@
     hourHand.style.transform = `rotate(${hourRotation}deg)`;
     minuteHand.style.transform = `rotate(${minuteRotation}deg)`;
     secondHand.style.transform = `rotate(${secondRotation}deg)`;
-    // }, 1000);
+    }, 1000); */
 
 
 
