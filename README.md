@@ -1,5 +1,5 @@
 # Clock
-# Here Is My Second Project In Github i Create a Simple Clock with Simple Logic
+# Here Is My Project In Github i Create a Simple Clock with Simple Logic
 
 ```
 Welcome to My Github Profile.
